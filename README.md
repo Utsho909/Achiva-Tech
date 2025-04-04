@@ -1,6 +1,6 @@
 # Achiva Tech
 
-[![Achiva Tech Logo](path/to/logo.png)](https://achivatech.netlify.app/)
+
 
 **Achiva Tech** is a dynamic web application designed to showcase innovative solutions and services in the tech industry. Developed and deployed by [Your Name], this platform serves as a testament to modern web development practices and user-centric design.
 
